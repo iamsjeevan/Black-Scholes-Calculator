@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 2. Run the script:
    ```bash
-   python black_scholes.py
+   streamlit run app.py
    ```
 
 ## Usage
@@ -51,18 +51,6 @@ pip install -r requirements.txt
    - Call Option
    - Put Option
 
-## Example Output
-
-```plaintext
-Enter the current stock price (S): 100
-Enter the strike price (K): 110
-Enter the time to maturity (T in years): 1
-Enter the risk-free interest rate (r as a decimal): 0.05
-Enter the volatility (σ as a decimal): 0.2
-
-Call Option Price: 10.45
-Put Option Price: 6.80
-```
 
 ## Formula
 
