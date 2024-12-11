@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/black-scholes-calculator.git
+   git clone https://github.com/iamsjeevan/black-scholes-calculator.git
    cd black-scholes-calculator
    ```
 
